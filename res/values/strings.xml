@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RealTime FX</string>
+    <string name="action_settings">Settings</string>
+    <string name="instr">INFO:\nThis app implements reverb in real time by recording audio from the mic and playing it back to the speakers. For that reason it is recommended that you use headphones in order to avoid any feedback from the speakers to the mic.\n\nINSTRUCTIONS:\nPress the toggle button below to start.\nPress it again to stop.</string>
+    <string name="on">Stop</string>
+    <string name="off">Start</string>
+
+</resources>
+
