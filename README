@@ -1,0 +1,6 @@
+-------------------------------------------------------------------------------------
+REALTIME FX - ANDROID APPLICATION (BEGINNER)
+    - Uses microphone capture, audio manipulation and playback
+-------------------------------------------------------------------------------------
+
+This is a beginner project used to understand how to use the Android device's microphone to record audio, add a simple effect and play the audio back through the headphones almost in real time (small delay).
